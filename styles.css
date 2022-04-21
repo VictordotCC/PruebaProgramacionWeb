@@ -1,0 +1,50 @@
+body{
+    background-image: url("static/_MG_8812.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+nav {
+    font-family: 'Stencil Std';
+    font-size: large;
+    font-weight: bold;
+}
+
+.card {
+    margin: 3%;
+}
+
+img {
+    padding-top: 5%;
+    width: min-content;
+    height: 275px;
+}
+
+h2 {
+    font-family: 'Stencil Std';
+    font-size: large;
+    text-align: center;
+}
+
+iframe {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 600px;
+}
+
+p {
+    font-family: 'Stencil Std';
+    font-size: medium;
+    text-align: center;
+}
+
+h5 {
+    font-family: 'Stencil Std';
+    font-weight: bold;
+    text-align: center;
+}
